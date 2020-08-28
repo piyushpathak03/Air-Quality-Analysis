@@ -2,9 +2,19 @@
 
 The repository contains the winning solution for Data Science Hackathon conducted by JNTUH and Colaberry USA incollabortion with Infogrex Technologies.
 
-**Rank 1**
+## About me
 
-Prize - 50,000
+**Piyush Pathak**
 
-## Visit the Link to Acesss the NBViewer Notebook
-### [AirQuality Exploratory Data Analysis and Sensor Clustering](https://nbviewer.jupyter.org/github/shaz13/hackathons/blob/master/T091_Air_Quality.ipynb)
+[**PORTFOLIO**](https://anirudhrapathak3.wixsite.com/piyush)
+
+[**GITHUB**](https://github.com/piyushpathak03)
+
+[**BLOG**](https://medium.com/@piyushpathak03)
+
+
+# 📫 Follw me: 
+
+[![Linkedin Badge](https://img.shields.io/badge/-PiyushPathak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/piyushpathak03/)](https://www.linkedin.com/in/piyushpathak03/)
+
+<p  align="right"><img height="100" src = "https://media.giphy.com/media/l3URDstnIjBNY7rwLB/giphy.gif"></p>
